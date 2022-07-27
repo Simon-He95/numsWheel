@@ -13,7 +13,7 @@
 - Echarts [@simon_he/s-chart](https://github.com/SimonHe1995/sCharts)
 - Exports function [exports-function](https://github.com/SimonHe1995/exportsFunction)
 
-## numWheel
+## numsWheel
 - Digital wheel control
 - Based on the odometer package, it is simpler to use in the business
 - params:

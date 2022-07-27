@@ -13,7 +13,7 @@
 - Echarts [@simon_he/s-chart](https://github.com/SimonHe1995/sCharts)
 - Exports function [exports-function](https://github.com/SimonHe1995/exportsFunction)
 
-## numWheel
+## numsWheel
 - 数字滚轮控件
 - 无需在onMounted中调用,可以在任意地方调用
 - 基于odometer封装, 更简单的在业务中使用
