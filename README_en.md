@@ -9,9 +9,8 @@
 
 ## More
 - Export function [exports-function](https://github.com/SimonHe1995/exportsFunction)
-- threejs [@simon_he/s-three](https://github.com/SimonHe1995/sThree)
-- Echarts [@simon_he/s-chart](https://github.com/SimonHe1995/sCharts)
-- Exports function [exports-function](https://github.com/SimonHe1995/exportsFunction)
+- threejs [@simon_he/s-three](https://github.com/Simon-He95/sThree)
+- Echarts [@simon_he/s-chart](https://github.com/Simon-He95/sCharts)
 
 ## numsWheel
 - Digital wheel control
